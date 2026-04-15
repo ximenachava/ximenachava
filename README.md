@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ximenachava
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and web development
+- 👀 I’m currently working as a product manager in the healthcare industry.
+- 🌱 I have started using claude code to run my workflows automatically and for prototypes. 
 - 💞️ I’m looking to collaborate on any project
 
 <!---
